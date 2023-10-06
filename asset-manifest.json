@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/prayer/static/css/main.afdc285e.css",
+    "main.js": "/prayer/static/js/main.90267a14.js",
+    "static/js/787.a9120f67.chunk.js": "/prayer/static/js/787.a9120f67.chunk.js",
+    "static/media/dhhr-prayer-mosque.png": "/prayer/static/media/dhhr-prayer-mosque.4995dcb3da4d45940ab8.png",
+    "static/media/asr-prayer-mosque.png": "/prayer/static/media/asr-prayer-mosque.5d37c146971207b3110e.png",
+    "static/media/night-prayer-mosque.png": "/prayer/static/media/night-prayer-mosque.11c199f7e7be388aa782.png",
+    "static/media/fajr-prayer.png": "/prayer/static/media/fajr-prayer.ae0d95120526ee8cbe67.png",
+    "static/media/sunset-prayer-mosque.png": "/prayer/static/media/sunset-prayer-mosque.7d9cdb1008e908b79f28.png",
+    "index.html": "/prayer/index.html",
+    "main.afdc285e.css.map": "/prayer/static/css/main.afdc285e.css.map",
+    "main.90267a14.js.map": "/prayer/static/js/main.90267a14.js.map",
+    "787.a9120f67.chunk.js.map": "/prayer/static/js/787.a9120f67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afdc285e.css",
+    "static/js/main.90267a14.js"
+  ]
+}
